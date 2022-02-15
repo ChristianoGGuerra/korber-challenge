@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+
+[dev-packages]
+
+[packages]
+requests = "*"
+pytest = "*"
+assertpy = "*"
+selenium = "*"
+
+[requires]
+python_version = "3.8"
