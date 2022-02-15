@@ -48,3 +48,5 @@ pip3 install assertpy
 - Open the terminal and go to tests folder;
 
 - Add the command ``` pytest factorial_test.py ```
+- Run end to end test Go to end2end folder
+- Add the command ``` pytest file_name.py ```
